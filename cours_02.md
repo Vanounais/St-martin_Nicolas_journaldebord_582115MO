@@ -10,7 +10,8 @@ https://www.indiewire.com/2021/05/love-death-robots-season-2-review-netflix-show
 J'ai choisi ce lien car j'aime bien le projet il s'agit d'une série dans la quelle chaque épisode et créer par une équipe différente et chaque épisode a sont propre style mais tourne souvant autour de l'horreur. c'est très motivant, j'adore l'animation 3D et j'aime beacoup aussi les film d'horreur même que les films d'horeur animé sont souvant ceux qui me font le plus peur car justement l'imagination n'a aucune limite quand tu peus animé se que tu veut.
 
 ### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://www.youtube.com/c/COLASBIM/videos :
+J'ai choisi ce lien vers la chaine de colas bim car j'aime bien ces animations 2D elle son simple et très drole, j'adore l'humour donc j'aime bien l'idée de combiner l'animation a l'humour. L'animation peut permettre de créer des scènes humoristique qu'on ne pourrait pas avoir dans la vrais vie.
 
 ### Lien 4 
 Expliquer pourquoi vous avez choisi ce lien. 
