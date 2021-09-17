@@ -15,5 +15,5 @@ je shouaite vraiment travailler en entreprise, devenir travailleur autonome ne m
 pour rester dans ma passion du jeu video, immaginer des jeux pourrait etre intéressant aussi il y a beacoup d'échelon a monter pour en arriver là quand tu travail pour une entreprise mais sa reste intéressant car je vois souvant des possibilité que les jeux n'ont pas explorer car il ne voulait pas y consacré du temps
 
 ### Emploi 5 - Identification
-4 à 5 lignes
+comme 5*em* option je ne sais vraiment pas se que je pourrais faire mais je pourrais m'occuper de site web de compagnie ou quelque chose comme ça. 
 
