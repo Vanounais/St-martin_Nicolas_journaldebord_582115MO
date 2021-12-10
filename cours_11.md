@@ -3,13 +3,13 @@
 Durée: 5 à 7 minutes
 
 ### Présentation
-Parlez du projet multimédia sélectionné. 
+ICARUS est un jeu de survie qui met en scène un personnage qu'on envoie en mission sur une planète et qui ne peut revenir que quand il a fini son objectif
 
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+la ray-tracing (RTX)
 
 ### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+le projet est pertinent car il aborde la survie d'un façon spécial qui n'a jamais été utiliser
