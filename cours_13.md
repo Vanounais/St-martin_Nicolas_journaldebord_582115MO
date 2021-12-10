@@ -1,5 +1,4 @@
 # Cours 13
 ## Préparation de la présentation 3 
-Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet.
-
+Faire un jeu de survie avec un environnement horreur et des mob d'entitée paranormale célèbre, le jeux se déroulerais sur un grande île avec un gros parc au milieu.
 ![pp 5](images/pp_5.jpg)
