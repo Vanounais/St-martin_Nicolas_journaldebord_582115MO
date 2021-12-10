@@ -6,7 +6,7 @@ Durée: 5 à 7 minutes
 ICARUS est un jeu de survie qui met en scène un personnage qu'on envoie en mission sur une planète et qui ne peut revenir que quand il a fini son objectif
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+![carte](images/pp_5.png) 
 
 ### Technologies
 la ray-tracing (RTX)
